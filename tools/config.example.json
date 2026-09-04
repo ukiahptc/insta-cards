@@ -1,0 +1,9 @@
+{
+  "ig_user_id": "여기에 Instagram 계정 ID (숫자)",
+  "access_token": "여기에 장기 액세스 토큰",
+  "api_host": "graph.instagram.com",
+  "api_version": "v26.0",
+  "base_url": "https://ukiahptc.github.io/insta-cards",
+  "github_repo": "ukiahptc/insta-cards",
+  "token_updated_at": "2026-09-05T00:00:00Z"
+}
