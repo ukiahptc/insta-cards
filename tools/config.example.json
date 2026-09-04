@@ -1,4 +1,7 @@
 {
+  "app_id": "1086626760436980",
+  "app_secret": "여기에 Instagram 앱 시크릿 코드",
+  "redirect_uri": "https://ukiahptc.github.io/insta-cards/callback/",
   "ig_user_id": "여기에 Instagram 계정 ID (숫자)",
   "access_token": "여기에 장기 액세스 토큰",
   "api_host": "graph.instagram.com",
