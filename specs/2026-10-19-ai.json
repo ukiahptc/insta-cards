@@ -1,0 +1,24 @@
+{
+  "theme": "ai",
+  "date": "2026-10-19",
+  "kicker": "AI 글로벌 브리핑 · 10월 19일",
+  "handle": "@ukiahptc_ai",
+  "cards": [
+    {"type":"cover","emoji":"🔍","pre":"AI 비서의 눈이","hook":["검색 1천 번에","0.75달러"],"twist":"대신 사람이 쪽지 시험을 본다"},
+    {"type":"list","title":"오늘 딱 3개만","items":[
+      {"emoji":"🔍","text":"DeepSeek, 검색 1천 건 0.75달러"},
+      {"emoji":"📝","text":"AI 코드 이해했나, 올리기 전 퀴즈"},
+      {"emoji":"🔓","text":"열어 둔 AI 서버 3,400대+ 감염"}]},
+    {"type":"point","no":"①","tag":"오늘의 화제","emoji":"🔍","big":"0.75달러","unit":"웹 검색 1천 건당 (DeepSeek)","title":"AI 비서 검색 심부름값이 바닥","easy":"검색 심부름 1천 번에 1천 원 남짓이에요","facts":["10월 17일 공개, 해커뉴스 519점","Claude Code 경유 11월 1일까지 무료","회사 데이터 보관 우려도 함께"]},
+    {"type":"point","no":"②","tag":"모델","emoji":"🖥️","big":"100만 토큰","unit":"책상 위 DGX Spark 1대 문맥 (NVIDIA)","title":"큰 모델을 컴퓨터 한 대에","easy":"백과사전 글씨를 줄여 책장 한 칸에 넣었어요","facts":["Qwen3.8 모델을 4비트로 압축","정확도 92.2→91.5%(NVIDIA)","10월 5일 허깅페이스 등록"]},
+    {"type":"point","no":"③","tag":"디자인","emoji":"🎬","big":"AI 비서용","unit":"Kling 4.0 영상 AI, 연결 통로 먼저","title":"영상 카메라를 AI 비서에게","easy":"사이트 대신 AI 비서에게 찍어 달라고 해요","facts":["10월 15일 모두에게 공개","AI 연결(MCP)·터미널 먼저 열어","대세: 이미지는 OpenAI 2강"]},
+    {"type":"point","no":"④","tag":"이렇게 쓰더라","emoji":"🗣️","big":"2→190건","unit":"200건 중 불리한 결과 보고 (GPT-5.5)","title":"\"솔직하게 써\" 한 줄의 힘","easy":"솔직하게 써 한마디에 못한 과목도 적어요","facts":["9월 28일 공개 논문 실험","지시문에 \"Be honest\" 추가","한계는 별도 항목으로 요구"]},
+    {"type":"point","no":"⑤","tag":"깃허브","emoji":"⭐","big":"52,975","unit":"ai-job-search 별 (10월 19일 기준)","title":"AI 구직 도우미, 깃허브 1위","easy":"공고 찾기부터 이력서까지 AI가 해 줘요","facts":["하루 +2,213, 일간 트렌딩 1위","Claude Code로 동작, MIT 라이선스","개인정보는 비공개 저장소에"]},
+    {"type":"point","no":"⑥","tag":"보안","emoji":"🔓","big":"3,400대+","unit":"감염된 AI 서버 (PoeLLM 봇넷)","title":"열어 둔 AI 서버로 몰래 채굴","easy":"문 열린 집 AI 컴퓨터로 코인을 캐요","facts":["10월 7일 보도, Lumen 발견","LiteLLM·Ollama 서버 노려","대응: 외부 노출 차단·패치"]},
+    {"type":"why","title":"그래서 뭐가 달라져?","items":[
+      {"emoji":"🖥️","text":"사내 AI, 서버 대신 책상 1대로"},
+      {"emoji":"🎬","text":"영상 AI는 비서 연결 여부가 1순위"},
+      {"emoji":"🔒","text":"AI 서버 외부 포트 차단이 기본"}]},
+    {"type":"end","emoji":"🎥","lines":["CCTV·드론 값은 거의 공짜","돈 되는 건 화면 보는 사람"],"punch":"판단하는 사람과 절차가 경쟁력","cta":"저장하고 내일 이어 보기"}
+  ]
+}
