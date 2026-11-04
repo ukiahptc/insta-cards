@@ -1,0 +1,24 @@
+{
+  "theme": "ai",
+  "date": "2026-11-04",
+  "kicker": "AI 글로벌 브리핑 · 11월 4일",
+  "handle": "@ukiahptc_ai",
+  "cards": [
+    {"type":"cover","emoji":"📒","pre":"AI 비서 수첩에","hook":["해커뉴스 910점","몰래 깐 플러그인"],"twist":"실력보다 누가 말 거느냐"},
+    {"type":"list","title":"오늘 딱 3개만","items":[
+      {"emoji":"🧩","text":"Postman, 몰래 AI 플러그인 설치"},
+      {"emoji":"🔓","text":"GitBook, AI 쓴 공격에 토큰 무효화"},
+      {"emoji":"🏫","text":"구글, AI 막는 학교는 검색도 끊어"}]},
+    {"type":"point","no":"①","tag":"오늘의 화제","emoji":"🧩","big":"910점","unit":"해커뉴스 점수 (Postman 플러그인 신고)","title":"몰래 AI 비서에 플러그인","easy":"앱 업데이트가 AI 비서 수첩을 몰래 고쳤어요","facts":["10월 24일 자동 업그레이드로 설치","Claude Code·Codex에 플러그인·훅","유출 증거는 없음(신고자 명시)"]},
+    {"type":"point","no":"②","tag":"모델","emoji":"📚","big":"30억","unit":"매개변수 (바이두 Unlimited-OCR-2 문서 인식)","title":"수백 쪽 문서를 한 번에 읽는다","easy":"책 한 권을 통째로 넘기며 읽는 AI예요","facts":["10월 27일 코드·가중치 공개","쪽을 넘어 이어지는 표까지 추론","MIT 라이선스, 다운로드 19만"]},
+    {"type":"point","no":"③","tag":"디자인","emoji":"🎨","big":"77.8%","unit":"Figma 전용 편집 모델 사내 평가","title":"Figma, 전담 AI를 키웠다","easy":"손질은 전담 디자이너, 새 그림은 박사님께","facts":["GPT-6.1 Sol 76.9%에 근소 우위","되돌리기 60% 감소(회사 발표)","대세: 이미지 1위 GPT Image 2.5"]},
+    {"type":"point","no":"④","tag":"이렇게 쓰더라","emoji":"🕹️","big":"4개 중 3개","unit":"가중치만 보고 맞힌 게임 (Qwen 3.8 27B)","title":"노트북 AI가 게임을 맞혀","easy":"숫자 종이를 한 시간 보고 게임을 맞혀요","facts":["사이먼 윌리슨, 11월 3일 실험","Breakout 신뢰도 88%, 52분","Freeway는 Pac-Man으로 오답"]},
+    {"type":"point","no":"⑤","tag":"깃허브","emoji":"⭐","big":"12,595","unit":"vercel-labs/agent-desktop 별 (11월 4일 기준)","title":"AI가 내 컴퓨터 앱을 직접 조작","easy":"AI용 앱 리모컨에 별이 더 빨리 쌓여요","facts":["하루 +3,792, 전날은 +2,243","Rust 명령줄 도구, Apache-2.0","화면 속 개인 정보 노출 주의"]},
+    {"type":"point","no":"⑥","tag":"보안","emoji":"🔑","big":"토큰 전부","unit":"GitBook이 무효화한 고객 API(연결 열쇠) 토큰","title":"AI 동원 공격에 열쇠 털려","easy":"보관소가 모든 손님에게 자물쇠를 바꾸래요","facts":["11월 2일 침입, 3일 오후 복구","API 토큰·AI 도우미 질문 노출 가능","대응: 토큰 재발급·연결 재인증"]},
+    {"type":"why","title":"그래서 뭐가 달라져?","items":[
+      {"emoji":"📝","text":"AI 지침·훅 파일도 감시 대상"},
+      {"emoji":"🔌","text":"플러그인, 기업 소프트웨어 새 통로"},
+      {"emoji":"✂️","text":"반복 일은 싼 전용 모델로 분업"}]},
+    {"type":"end","emoji":"📒","lines":["AI 비서는 일 전에 수첩부터 읽는다","누가 허락받고 썼는지가 관건"],"punch":"수첩 검사가 다음 시장","cta":"저장하고 내일 이어 보기"}
+  ]
+}
