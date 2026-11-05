@@ -1,0 +1,24 @@
+{
+  "theme": "ai",
+  "date": "2026-11-05",
+  "kicker": "AI 글로벌 브리핑 · 11월 5일",
+  "handle": "@ukiahptc_ai",
+  "cards": [
+    {"type":"cover","emoji":"💸","pre":"공개 AI 모델이","hook":["3,200만 달러","코딩 80.5점"],"twist":"승부는 이제 작업대로"},
+    {"type":"list","title":"오늘 딱 3개만","items":[
+      {"emoji":"🧱","text":"AI가 찾은 옛 코드 구멍, 991점"},
+      {"emoji":"🧠","text":"공개 모델 셋이 같은 날 등장"},
+      {"emoji":"🤝","text":"OpenAI·Meta, 에이전트 작업대 인수"}]},
+    {"type":"point","no":"①","tag":"오늘의 화제","emoji":"🧱","big":"991점","unit":"해커뉴스 점수 (IEEE 스펙트럼 PHP2Shell 기사)","title":"AI가 옛 코드 구멍을 2주 만에","easy":"금은 빨리 찾는데 고치는 건 여전히 느려요","facts":["AI 도움으로 2주 만에 공격법 확인","패치엔 엔지니어 4명이 2개월","악용 전에 패치 완료"]},
+    {"type":"point","no":"②","tag":"모델","emoji":"💸","big":"80.52","unit":"터미널 코딩 점수 (Ricursive Ripple-65B, 회사 발표)","title":"3,200만 달러짜리 공개 모델","easy":"학원비 10분의 1로 덩치 큰 모델을 이겼대요","facts":["650억 매개변수, 11월 4일 공개","같은 날 Kimi K3.1 Pro·Hy4도","독립 평가는 아직 없음"]},
+    {"type":"point","no":"③","tag":"디자인","emoji":"🎬","big":"5개 이상","unit":"출시 영상을 함께 편집한 AI 에이전트 (Kino AI)","title":"AI 여럿이 한 영상을 편집","easy":"편집을 설계도로 바꿔 AI 조수들이 같이 고쳐요","facts":["편집·모션그래픽을 전부 코드로","250GB 원본 영상도 바로 넣기","대세: 이미지 1위 GPT-Image-2.5"]},
+    {"type":"point","no":"④","tag":"이렇게 쓰더라","emoji":"📬","big":"12명","unit":"AI 보조 수정을 반영한 기여자 (llm 0.37)","title":"AI가 쓴 수정 제안, AI로 분류","easy":"편지 홍수에서 AI 비서가 중요한 것만 골라요","facts":["사이먼 윌리슨, 11월 2일 릴리스","PR(수정 제안)을 버그 신고로 읽기","합칠지는 사람이 결정"]},
+    {"type":"point","no":"⑤","tag":"깃허브","emoji":"📊","big":"4,831","unit":"NVIDIA/auto-ontology 별 (11월 5일 기준)","title":"회사 데이터의 뜻을 AI에게","easy":"공식 매출 상자가 어딘지 알려 주는 지도예요","facts":["하루 +2,053, 일간 트렌딩 1위","AI가 짠 SQL을 공식 정의와 대조","Apache-2.0, MCP로 연결"]},
+    {"type":"point","no":"⑥","tag":"빅테크","emoji":"🤝","big":"같은 날","unit":"OpenAI·Meta 코딩 작업대 회사 인수 (11월 4일)","title":"에이전트 작업대, 빅테크가 샀다","easy":"AI 일꾼의 책상 공방을 큰 회사가 데려갔어요","facts":["OpenAI: Git 도구 Pierre 인수 예정","Meta: 병렬 에이전트 Conductor","Conductor 클라우드 20일 데이터 삭제"]},
+    {"type":"why","title":"그래서 뭐가 달라져?","items":[
+      {"emoji":"🔁","text":"모델보다 바꿔 끼워도 되는 업무 흐름"},
+      {"emoji":"📏","text":"AI가 쓴 숫자의 정의·출처 증명"},
+      {"emoji":"📦","text":"작은 도구엔 데이터 내보내기 대비"}]},
+    {"type":"end","emoji":"🍞","lines":["좋은 밀가루는 이제 어디서든 싸다","돈은 빵 굽는 주방 설계로 간다"],"punch":"똑똑한 AI보다 잘 부리는 주방","cta":"저장하고 내일 이어 보기"}
+  ]
+}
