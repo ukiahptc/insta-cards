@@ -1,0 +1,24 @@
+{
+  "theme": "ai",
+  "date": "2026-11-09",
+  "kicker": "AI 글로벌 브리핑 · 11월 9일",
+  "handle": "@ukiahptc_ai",
+  "cards": [
+    {"type":"cover","emoji":"🧰","pre":"해커뉴스 1면을 달군 글","hook":["잘 가 Claude,","안녕 Pi"],"twist":"이젠 모델보다 작업대를 고른다"},
+    {"type":"list","title":"오늘 딱 3개만","items":[
+      {"emoji":"🔄","text":"Claude Code 떠나 Pi로, 664점 화제"},
+      {"emoji":"💻","text":"그래픽카드(GPU) 없이 2,840억 AI"},
+      {"emoji":"🏦","text":"골드만삭스, 코딩 AI는 엔지니어만"}]},
+    {"type":"point","no":"①","tag":"오늘의 화제","emoji":"🔄","big":"244번","unit":"올해 Claude Code 업데이트 (Caleb 집계)","title":"코딩 AI 작업대를 오픈소스로","easy":"운전석이 몰래 바뀌니 설계도 공개된 차로","facts":["해커뉴스 664점·댓글 420개","4분의 3 이상이 프롬프트 변경","Bash 도구 설명만 약 3,000토큰"]},
+    {"type":"point","no":"②","tag":"모델","emoji":"🧠","big":"1.18달러","unit":"과제 1건당 비용 (Inkling 2 Small)","title":"Gemini 3.8 Flash급 실력","easy":"비싼 학원 성적을 6분의 1 학원비로","facts":["지능 지수 31, 전작 대비 +18점","Gemini 3.8 Flash high 7.77달러","가중치 공개 예정, 날짜 미정"]},
+    {"type":"point","no":"③","tag":"디자인","emoji":"🧸","big":"사진 1장","unit":"으로 3D 모델 (speridlabs Idol)","title":"허깅페이스 트렌딩 1위 3D 생성","easy":"사진 한 장을 돌려 보는 입체 모형으로","facts":["그래픽 메모리(VRAM) 최대 7.2GB","Apache-2.0 라이선스","대세: 이미지는 OpenAI 독주"]},
+    {"type":"point","no":"④","tag":"이렇게 쓰더라","emoji":"📥","big":"결재함","unit":"AI 번아웃 막는 owner inbox","title":"AI는 알아서, 사람은 결재만","easy":"사장은 결재함에 쌓인 것만 하나씩 처리","facts":["할 일은 git 속 마크다운 티켓","안전 표시 티켓만 AI가 구현","결정은 한 번에 한 건씩"]},
+    {"type":"point","no":"⑤","tag":"깃허브","emoji":"⭐","big":"18,179","unit":"OpenMausBot 별 (11월 9일 기준)","title":"여러 AI 일꾼을 한 화면에서","easy":"회사별 AI 일꾼을 한 사무실에 모아요","facts":["하루 +1,437, 주간 +7,077","11월 7일 주간 +2,085서 급가속","Apache-2.0, 권한 먼저 확인"]},
+    {"type":"point","no":"⑥","tag":"산업 실증","emoji":"🏦","big":"1.2만 명","unit":"골드만삭스 코딩 AI 허용 인원","title":"코딩 AI는 엔지니어만 쓰세요","easy":"돈 다루는 직원에겐 아직 위험하다고 봤어요","facts":["전체 약 4.7만 명 중 약 1.2만 명","10월 사내 지침, 블룸버그 보도","해커뉴스 516점·댓글 315개"]},
+    {"type":"why","title":"그래서 뭐가 달라져?","items":[
+      {"emoji":"💸","text":"모델값보다 사용 조건·편향 검증이 관건"},
+      {"emoji":"🔓","text":"특정 회사에 안 묶이는 작업대가 먼저"},
+      {"emoji":"🔑","text":"사고는 편하자고 둔 설정 파일에서"}]},
+    {"type":"end","emoji":"🍳","lines":["재료(AI 모델)는 싸고 흔해졌고","이제 칼과 냄비를 고르는 시대"],"punch":"작업대를 통제하는 사람이 이긴다","cta":"저장하고 내일 이어 보기"}
+  ]
+}
