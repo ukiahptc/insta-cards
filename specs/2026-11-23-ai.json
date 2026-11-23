@@ -1,0 +1,24 @@
+{
+  "theme": "ai",
+  "date": "2026-11-23",
+  "kicker": "AI 글로벌 브리핑 · 11월 23일",
+  "handle": "@ukiahptc_ai",
+  "cards": [
+    {"type":"cover","emoji":"🧮","pre":"수학자와 AI가","hook":["167년 난제","증명 발표"],"twist":"기계 채점기는 통과"},
+    {"type":"list","title":"오늘 딱 3개만","items":[
+      {"emoji":"🧮","text":"리만 가설 증명 발표, 검사기 통과"},
+      {"emoji":"💻","text":"노트북에서 도는 Inkling 2 Mini"},
+      {"emoji":"🚦","text":"OpenAI, AI 속도 제한 눈금 제안"}]},
+    {"type":"point","no":"①","tag":"오늘의 화제","emoji":"🏔️","big":"167년","unit":"리만 가설이 안 풀린 기간 (1859년 제기)","title":"AI와 함께 낸 증명, 기계가 확인","easy":"수학계 에베레스트를 AI와 함께 올랐어요","facts":["11월 20일 Anthropic 수학자 공개","검사 프로그램 Lean 코드 1,700만 줄","사람이 읽을 설명은 아직 없음"]},
+    {"type":"point","no":"②","tag":"모델","emoji":"💻","big":"20GB","unit":"Inkling 2 Mini 전체 용량 (Thinking Machines)","title":"노트북에서 도는 공개 모델","easy":"비행기 안 노트북에서도 프로그램을 짜요","facts":["11월 20일 공개, Apache-2.0","메모리 32GB 이상 맥에서 구동","코딩 시험 48.2%(회사 발표)"]},
+    {"type":"point","no":"③","tag":"디자인","emoji":"🎭","big":"얼굴 대여","unit":"배우 Aki Avni · AI 드라마 업체 Shortical","title":"배우는 허락만, 연기는 AI가","easy":"얼굴 사용 허락만 팔고 연기는 AI가 해요","facts":["11월 21일 TechCrunch 보도","AI 연속극 Inevitable 공개","대세: 그림 순위는 OpenAI 상위권"]},
+    {"type":"point","no":"④","tag":"이렇게 쓰더라","emoji":"📺","big":"1시간 반","unit":"Claude Code로 TV 화면을 고친 시간","title":"광고투성이 TV, AI로 새 화면","easy":"TV 속 프로그램을 AI가 바꿔 줬어요","facts":["인도 개발자 Gathin T 사례","USB 디버깅 켜고 같은 와이파이","도구 CleanYourTV로 공개"]},
+    {"type":"point","no":"⑤","tag":"깃허브","emoji":"⭐","big":"17,690","unit":"Claude-BugHunter 별 (11월 23일 기준)","title":"보안 약점 찾기 지침, 일간 1위","easy":"AI에게 문단속 점검법을 가르쳐요","facts":["하루 +1,721, 일간 트렌딩 1위","지침 83개, 신고 사례 681건 기반","허가받은 점검에만, MIT 라이선스"]},
+    {"type":"point","no":"⑥","tag":"보안","emoji":"🔒","big":"화면 차단","unit":"Signal, 휴대폰 화면 갈무리 기본 차단","title":"AI가 화면을 읽지 못하게","easy":"AI가 어깨 너머로 못 읽게 막았어요","facts":["11월 20일 Signal 발표","안드로이드·아이폰으로 확대","사용자가 끌 수 있는 설정"]},
+    {"type":"why","title":"그래서 뭐가 달라져?","items":[
+      {"emoji":"🔍","text":"신뢰 기준은 누가 아닌 어떤 검사"},
+      {"emoji":"💻","text":"밖에 못 내는 자료엔 노트북 모델"},
+      {"emoji":"🔌","text":"모델보다 AI용 창구 유무가 먼저"}]},
+    {"type":"end","emoji":"🚗","lines":["엔진이 너무 세져서","계기판과 연료가 화제"],"punch":"결과를 어떤 검사로 확인했나","cta":"저장하고 내일 이어 보기"}
+  ]
+}
