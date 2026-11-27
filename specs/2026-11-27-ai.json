@@ -1,0 +1,24 @@
+{
+  "theme": "ai",
+  "date": "2026-11-27",
+  "kicker": "AI 글로벌 브리핑 · 11월 27일",
+  "handle": "@ukiahptc_ai",
+  "cards": [
+    {"type":"cover","emoji":"🚧","pre":"AI가 푸는 문제, 쓰는 값","hook":["문제는 커지고","값은 오른다"],"twist":"그 틈을 공개 모델이 판다"},
+    {"type":"list","title":"오늘 딱 3개만","items":[
+      {"emoji":"⏱️","text":"ChatGPT, 사용량 계량기 하나로"},
+      {"emoji":"🎮","text":"크래프톤, 한국어 공개 모델 정식판"},
+      {"emoji":"🎹","text":"악기 회사들, 설계를 공개한다"}]},
+    {"type":"point","no":"①","tag":"오늘의 화제","emoji":"⏱️","big":"계량기 하나","unit":"ChatGPT 대화+업무 사용량 통합 (OpenAI)","title":"많이 쓰면 한도가 빨리 온다","easy":"무한리필 식당이 리필 횟수를 합쳐 세요","facts":["11월 25일 TechCrunch 보도","일부 Pro부터, 12월에 확대","가장 가벼운 Instant는 무제한"]},
+    {"type":"point","no":"②","tag":"모델","emoji":"🎮","big":"20GB","unit":"필요 그래픽 메모리 (크래프톤 Raon-1 mini)","title":"한국어 특화 공개 모델 정식판","easy":"게임용 컴퓨터 한 대로 책 한 권을 읽혀요","facts":["11월 24일 공개, 상업 이용 가능","25만 6천 토큰을 한 번에 읽기","수능 371.8점, Gemma 4는 392.3"]},
+    {"type":"point","no":"③","tag":"디자인","emoji":"🔍","big":"4배","unit":"그림 확대 (Kandinsky ImageSR 2.0)","title":"흐린 그림을 또렷하게 키운다","easy":"작은 사진을 포스터 크기로 키워 줘요","facts":["11월 24일 공개, MIT 라이선스","새로 그리는 정도 0~8단계 조절","대세: 그림 1위 GPT-Image-2.5"]},
+    {"type":"point","no":"④","tag":"이렇게 쓰더라","emoji":"🏠","big":"반나절","unit":"AI와 함께 한 집 서버 설정 정리","title":"서버 설정을 글 파일로 모았다","easy":"AI가 고치고 사람은 승인만 눌러요","facts":["얀 루카스 엘제, 11월 26일 글","설정을 저장소(Git) 하나에","혼자였으면 최소 일주일"]},
+    {"type":"point","no":"⑤","tag":"깃허브","emoji":"⭐","big":"73,814","unit":"cathrynlavery/diagram-design 별 (11월 27일 기준)","title":"말로 설명하면 도식이 된다","easy":"AI에게 그림 그리는 교본을 쥐여 줘요","facts":["하루 +951, MIT 라이선스","도식 종류 52가지","쓰기 전 권한·라이선스 확인"]},
+    {"type":"point","no":"⑥","tag":"산업 실증","emoji":"🎹","big":"5종","unit":"Behringer가 예고한 공개형 제품","title":"AI 개조 늘자 악기 설계 공개","easy":"막을 수 없다면 설계도를 주자는 거예요","facts":["11월 25일 The Verge 보도","Akai·Moog 모회사도 도구 제공","Elektron은 개조판 공유 차단"]},
+    {"type":"why","title":"그래서 뭐가 달라져?","items":[
+      {"emoji":"🔀","text":"구독에 묶인 자동화, 대체 경로 하나"},
+      {"emoji":"💡","text":"공개 모델 표준은 싸게 돌리는 설계"},
+      {"emoji":"📖","text":"AI 연결 도구, 설명 전문 한 번 읽기"}]},
+    {"type":"end","emoji":"🚗","lines":["고속도로는 계속 넓어지는데","나들목마다 통행료가 붙는다"],"punch":"우회로를 하나씩 마련해 두기","cta":"저장하고 내일 이어 보기"}
+  ]
+}
